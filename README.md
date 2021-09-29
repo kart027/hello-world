@@ -1,2 +1,4 @@
 # hello-world
-I want to learn how to contribute in open source and i have dream to get selected on gsoc
+I want to learn how to contribute in open source .
+I have learn c,c++,html,css,java and some data structure.
+
